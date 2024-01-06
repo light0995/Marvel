@@ -13,6 +13,7 @@ const App = () => {
                 <RandomChar/>
                 <div className="char__content">
                     YI
+                    Hello World
                     <CharList/>
                     <CharInfo/>
                 </div>
